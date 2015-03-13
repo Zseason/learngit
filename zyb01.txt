@@ -1,0 +1,9 @@
+s`aomethingzyblearn a 122
+something123
+something123
+something123
+somethingif((a+b) i== 31)
+something{
+something    int a = 14;
+something}
+somethingsomethingsomethingsomething
